@@ -1,14 +1,15 @@
 .container{
-    margin: 20px;
-    margin-left: 40px;
-    width: 290px;
-    height: 80px;
-    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 15px;
+    margin-top: 7px;
+    color: #c0c0c0;
     background-color: #FFF;
-    color: #000;
+    border: 1px solid #c0c0c0;
+    padding: 5px 10px 5px 10px;
+    
 }
 
 .container:hover{
-    background-color: #0085A1;
-    color: #FFF;
+    border: 1px solid #0085A1;
+    color: #0085A1;
 }
